@@ -13,5 +13,5 @@ This repo contains all the files to complete the functional safety project.
 * 04_TechnicalSafetyConcept_LaneAssistance.pdf
 * 05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf
 
-These documents should suffice to complete the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/1043/view)
+These documents should suffice to complete the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/1043/view).
 
